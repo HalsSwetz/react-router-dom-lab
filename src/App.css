@@ -18,6 +18,17 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.mail-box {
+  text-align: center;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  border: 1px solid blue;
+  margin: 10px;
+}
+
+
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);

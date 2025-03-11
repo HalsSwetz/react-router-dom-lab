@@ -28,8 +28,8 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
-      'react/prop-types': 'off', 
-      'react/no-unescaped-entities':
+      'react/prop-types': 'off',
+      'react/no-unescaped-entities': 'off',
     },
   },
 ]
