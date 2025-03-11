@@ -30,7 +30,6 @@ const addBox = (newMailboxData) => {
         path="/mailboxes/:mailboxId"
         element={<MailboxDetails mailboxes={mailboxes} />}
       />
-      <Route path="*" element={<h2>Whoops, nothing to see here!</h2>} />
     </Routes>
 
     </>
